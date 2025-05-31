@@ -87,4 +87,4 @@ The frontend will open at: http://localhost:3000
 
 
 ## Video Demo
-Link: https://screenapp.io/app/#/library/683b21d550207bd54418138f/recents/9164bb2d-cdf7-4916-8742-cbb8b3e5f7ec
+Link: https://youtu.be/ZnDNw0JVvTc
